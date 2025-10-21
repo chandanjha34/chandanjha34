@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## My Contribution Graph
 
+![Snake animation](https://github.com/chandanjha34/chandanjha34/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandanjha34/chandanjha34/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandanjha34/chandanjha34/output/pacman-contribution-graph.svg">
